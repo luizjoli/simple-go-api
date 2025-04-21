@@ -1,0 +1,8 @@
+# Ignore binários e arquivos temporários
+main
+*.log
+*.tmp
+*.swp
+vendor/
+node_modules/
+.git
