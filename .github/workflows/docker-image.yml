@@ -18,7 +18,7 @@ jobs:
       uses: docker/build-push-action@v6.15.0
       with:
         push: true        
-        tags: luizjoli/simple-go-api:v1.1
+        tags: luizjoli/simple-go-api:v1.2
 
 
           
