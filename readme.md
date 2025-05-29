@@ -1,4 +1,4 @@
-# Go REST API com Gin! =) v2.0
+# Go REST API com Gin! =) v2.1
 
 Este é um exemplo simples de uma API REST desenvolvida em Go utilizando o framework [Gin](https://github.com/gin-gonic/gin), com suporte a Docker para facilitar o deploy.
 
